@@ -1,0 +1,25 @@
+{
+  "name": "frontend",
+  "version": "1.0.0",
+  "description": "XYZ Shop",
+  "main": "index.js",
+  "scripts": {
+    "test": "run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/appolonist/xyz.git"
+  },
+  "author": "Karol Piotrowski",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/appolonist/xyz/issues"
+  },
+  "homepage": "https://github.com/appolonist/xyz#readme",
+  "devDependencies": {
+    "@babel/cli": "^7.1.0",
+    "@babel/core": "^7.1.0",
+    "@babel/preset-env": "^7.1.0",
+    "@babel/preset-react": "^7.0.0"
+  }
+}
