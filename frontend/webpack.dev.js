@@ -9,12 +9,12 @@ module.exports = merge(common, {
         open: true,
         overlay: true, // shows errors in browser
         watchContentBase: true,
-        publicPath: '/',
-        contentBase: path.join(__dirname, 'dist'),
+        publicPath: 'http://localhost:3000',
+        contentBase: path.join(__dirname, 'dist/'),
         compress: true,
         hot: true,
         host: 'localhost',
-        port: 8080
+        port: 3000
 
     },
 });

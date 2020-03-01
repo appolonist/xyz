@@ -54,7 +54,7 @@ module: {
  ```
  That command add webpack and webpack cli to project dependencies.
 
- I also used webpack-merge to divide webpack configuration files on 3 parts:
+ I also used webpack-merge to divide webpack configuration file on 3 parts:
  - developpment,
  - production,
  - common
